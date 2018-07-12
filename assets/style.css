@@ -1,0 +1,11 @@
+body{
+  font-size: 14px;
+}
+
+.btn-group-toggle > .btn, .btn-group-toggle > .btn-group > .btn {
+  border: 1px solid #d1e0e3;
+}
+
+.btn{
+  border: 1px solid #d1e0e3;
+}

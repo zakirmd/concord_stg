@@ -1,0 +1,38 @@
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700; }
+
+.text-info {
+  color: #31708f !important; }
+
+.fnb-input:focus {
+  border-bottom-color: #38909c; }
+
+.tac {
+  text-align: center; }
+
+.mydp {
+  border: 0 !important;
+  background: transparent !important; }
+  .mydp .selectiongroup {
+    background: transparent !important; }
+    .mydp .selectiongroup .selection {
+      border: 0;
+      box-shadow: none;
+      background-color: transparent !important;
+      border-bottom: 2px solid #ddd !important;
+      padding-left: 0;
+      color: #6b6b6b;
+      border-radius: 0 !important;
+      font-family: lato, Arial,Helvetica,sans-serif !important; }
+      .mydp .selectiongroup .selection :focus {
+        border-bottom-color: #38909c; }
+  .mydp .daycell .datevalue {
+    font-family: lato, Arial,Helvetica,sans-serif; }
+
+.mydp .btnclear, .mydp .btndecrease, .mydp .btnincrease, .mydp .btnpicker, .mydp .headertodaybtn {
+  background: transparent !important; }
+
+/*# sourceMappingURL=styles.css.map */
